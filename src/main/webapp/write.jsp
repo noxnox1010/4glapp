@@ -84,7 +84,7 @@
 </head>
 <body>
     <div class="container">
-        <h2>새 글 작성</h2>
+        <h2>쉽지않네</h2>
         <form action="write_process.jsp" method="post">
             <div class="form-group">
             	<label for="title">제목</label>
