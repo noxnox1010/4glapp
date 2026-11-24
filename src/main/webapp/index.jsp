@@ -71,7 +71,7 @@
 <body>
     <div class="container">
         <div class="header-action">
-            <h2>배고프다261124</h2>
+            <h2>배고프다2611244444444444</h2>
             <a href="write.jsp" class="btn">글쓰기</a>
         </div>
         <table>
